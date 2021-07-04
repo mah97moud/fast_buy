@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dc8a436f-7a18-4f15-808b-f4bc7a4dca8f" name="Default Changelist" comment="update fast buy" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/mah97moud/FastBuy" />
+        <option value="https://github.com/mah97moud/buy_now_demo" />
+        <option value="https://github.com/mah97moud/fast_buy" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1urEO2Orgc1c5dOgCKLwYpP0phc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc8a436f-7a18-4f15-808b-f4bc7a4dca8f" name="Default Changelist" comment="" />
+      <created>1625415279000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625415279000</updated>
+    </task>
+    <task id="LOCAL-00001" summary="update fast buy">
+      <created>1625418308638</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625418308638</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update fast buy">
+      <created>1625423331015</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1625423331015</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="update fast buy" />
+    <option name="LAST_COMMIT_MESSAGE" value="update fast buy" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="515" y="299" width="281" height="203" key="Github.ShareDialog" timestamp="1625422023111">
+      <screen x="0" y="27" width="1312" height="741" />
+    </state>
+    <state x="515" y="299" width="281" height="203" key="Github.ShareDialog/0.27.1312.741@0.27.1312.741" timestamp="1625422023111" />
+    <state width="1266" height="163" key="GridCell.Tab.0.bottom" timestamp="1625420979887">
+      <screen x="0" y="27" width="1312" height="741" />
+    </state>
+    <state width="1266" height="163" key="GridCell.Tab.0.bottom/0.27.1312.741@0.27.1312.741" timestamp="1625420979887" />
+    <state width="1266" height="163" key="GridCell.Tab.0.center" timestamp="1625420979886">
+      <screen x="0" y="27" width="1312" height="741" />
+    </state>
+    <state width="1266" height="163" key="GridCell.Tab.0.center/0.27.1312.741@0.27.1312.741" timestamp="1625420979886" />
+    <state width="1266" height="163" key="GridCell.Tab.0.left" timestamp="1625420979885">
+      <screen x="0" y="27" width="1312" height="741" />
+    </state>
+    <state width="1266" height="163" key="GridCell.Tab.0.left/0.27.1312.741@0.27.1312.741" timestamp="1625420979885" />
+    <state width="1266" height="163" key="GridCell.Tab.0.right" timestamp="1625420979887">
+      <screen x="0" y="27" width="1312" height="741" />
+    </state>
+    <state width="1266" height="163" key="GridCell.Tab.0.right/0.27.1312.741@0.27.1312.741" timestamp="1625420979887" />
+    <state x="145" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1625423450550">
+      <screen x="0" y="27" width="1312" height="741" />
+    </state>
+    <state x="145" y="31" width="1022" height="737" key="SettingsEditor/0.27.1312.741@0.27.1312.741" timestamp="1625423450550" />
+    <state x="251" y="129" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1625423343351">
+      <screen x="0" y="27" width="1312" height="741" />
+    </state>
+    <state x="251" y="129" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1312.741@0.27.1312.741" timestamp="1625423343351" />
+    <state x="467" y="52" width="367" height="697" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1625423375380">
+      <screen x="0" y="27" width="1312" height="741" />
+    </state>
+    <state x="467" y="52" width="367" height="697" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.27.1312.741@0.27.1312.741" timestamp="1625423375380" />
+    <state x="317" y="247" width="667" height="307" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1625421972365">
+      <screen x="0" y="27" width="1312" height="741" />
+    </state>
+    <state x="317" y="247" width="667" height="307" key="git4idea.remote.GitConfigureRemotesDialog/0.27.1312.741@0.27.1312.741" timestamp="1625421972365" />
+  </component>
+</project>
